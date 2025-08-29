@@ -1,2 +1,2 @@
-The app, SY ربحني , in no way, shape, or form, does it store or collect data from its users. 
+The app, لوتري امريكا , in no way, shape, or form, does it store or collect data from its users. 
 This app only gets input to be passed into a website inside a webview in android and does not store the information.
